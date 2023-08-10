@@ -2,6 +2,7 @@
 
 Script to indicate 
 your country based on your external ip address
+Indication in system tray
 
 For PRETTY_NAME="Ubuntu 22.04.2 LTS"
 

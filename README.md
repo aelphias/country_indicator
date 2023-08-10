@@ -42,3 +42,5 @@ Once PyInstaller is installed, you can package your Python script into an execut
 
 
 These are just a few of the ways you can run a Python script as an app in Ubuntu. The best option for you will depend on your specific needs and preferences.
+
+made with you.com
